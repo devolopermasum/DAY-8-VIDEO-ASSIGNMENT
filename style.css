@@ -1,0 +1,44 @@
+.bangladesh-flag{
+    height: 170px;
+    width: 300px;
+    background-color:green;
+    box-shadow: 3px 2px 9px rgba(255, 255, 255, 0.416);
+    text-align: center;
+    margin-left:100px;
+    display:inline-block;
+    margin-top: 33px;
+    
+}
+.bangladesh-flag-middle{
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    background-color: red;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+
+.main-egg{
+    height: 150px;
+    width: 250px;
+    border-radius: 70%;
+    background-color:#b4c0cb;
+    margin-top: 50px;
+    text-align: center;
+    border: 3px solid #b05b34;
+    margin-left: 120px;
+
+}
+.main-egg-middle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color:#f2bf02;
+    display: inline-block;
+    margin-top: 25px;
+}
+
+h2{
+    text-shadow: 1px 3px 6px black;
+}
